@@ -1,3 +1,1 @@
-init
-
-new commit 
+init commit 
