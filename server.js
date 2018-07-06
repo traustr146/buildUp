@@ -1,3 +1,2 @@
 
-commit
-e commit
+commit commit
